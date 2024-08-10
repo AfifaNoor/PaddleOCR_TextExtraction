@@ -121,6 +121,3 @@ get_coords_and_text(image_path, output_json_path, raw_ocr_json_path)
 
 This will process the image at the specified `image_path`, draw bounding boxes on the detected text, and save the processed data and raw OCR result as JSON files.
 
----
-
-This README file includes all the necessary instructions, explanations, and notes to help users understand the purpose of the code, how to set up the environment, and how to run the code.
