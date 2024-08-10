@@ -1,6 +1,3 @@
-Here's a README file that you can use for your GitHub repository:
-
----
 
 # PaddleOCR Bounding Box Detection and Text Extraction
 
